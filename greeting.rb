@@ -1,4 +1,6 @@
 def greeting
-  puts "Hello World!"
+  puts "There are #{num_of_attendees} people coming to Beyonce's birthday party."
 end   
+greeting
+  
   
